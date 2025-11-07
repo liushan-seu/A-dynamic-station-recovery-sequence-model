@@ -22,8 +22,8 @@ pip install -r requirements.txt
 
 
 ## 🧠 Overall Architecture
-This is the framework of the dynamic spatial-temporal decomposition and fusion network (DST-DFN).
-![Framework of the dynamic spatial-temporal decomposition and fusion network (DST-DFN).](./Figs/over_DRL.jpg)
+Framework of constrained reinforcement learning algorithm.
+![Framework of constrained reinforcement learning algorithm.](./Figs/over_DRL.jpg)
 
 
 ---
