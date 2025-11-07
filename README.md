@@ -1,5 +1,7 @@
 # 🚇🚌 Dynamic recovery sequence optimization of subway-bus network with constrained reinforcement learning
 
+[Shan Liu], [Zhenhao Meng], [Rui Jiang], [Zhengli Wang], [Ya Zhang], [Ying-En Ge].
+
 ---
 
 ## 📦 Environment Setup
