@@ -43,15 +43,3 @@ Citation information will be updated here once the paper is published.
 If you have questions, issues, or suggestions, feel free to reach out:
 
 - **Email**: liushan22@seu.edu.cn  
-
----
-
-## 🧪 Project Status
-
-This project is still **under active development**.  
-We are continuously working on:
-
-- Adding support for projects that only use subway data.  
-- Providing trained model weights 
-
-Stay tuned for updates!
